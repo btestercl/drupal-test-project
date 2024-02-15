@@ -16,9 +16,9 @@
     ],
     "require": {
         "composer/installers": "^2.2",
-        "drupal/core-composer-scaffold": "9.4.15",
-        "drupal/core-project-message": "9.4.15",
-        "drupal/core-recommended": "9.4.15",
+        "drupal/core-composer-scaffold": "9.5.0",
+        "drupal/core-project-message": "9.5.0",
+        "drupal/core-recommended": "9.5.0",
         "drush/drush": "^11.5",
         "vlucas/phpdotenv": "^5.5",
         "webflo/drupal-finder": "^1.2"
